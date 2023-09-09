@@ -13,6 +13,7 @@ Recently, fake news detection on social media has garnered a lot of attention. A
 
 * test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 Link to download training dataset: https://drive.google.com/file/d/1SYxcV2WayqGGTbIJV24k9tSUtBJzlFKr/view?usp=sharing
+
 Testing dataset is uploaded in the repository from where it can be downloaded.
 
 # Accuracy
