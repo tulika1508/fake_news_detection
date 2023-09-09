@@ -8,8 +8,7 @@ Recently, fake news detection on social media has garnered a lot of attention. A
   * title: the title of news article
   * author: author of news article
   * text: the text of article(can be incomplete)
-  * label: a label that marks the article as potentially unreliable
-    * 1: unreliable , 0: reliable
+  * label: a label that marks the article as potentially unreliable-  1: unreliable , 0: reliable
 
 * test.csv: A testing training dataset with all the same attributes at train.csv without the label.
 Link to download training dataset: https://drive.google.com/file/d/1SYxcV2WayqGGTbIJV24k9tSUtBJzlFKr/view?usp=sharing
