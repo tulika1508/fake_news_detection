@@ -1,6 +1,6 @@
 # fake_news_detection
 # About
-Recently, fake news detection on social media has garnered a lot of attention. A machine learning approach is preferred since the fundamental countermeasure of evaluating websites against a list of labelled fake news sources is rigid. Based on the language of news items, our study attempts to employ Natural Language Processing to quickly identify bogus news.
+Recently, fake news detection on social media has garnered a lot of attention. A machine learning approach is preferred since the fundamental countermeasure of evaluating websites against a list of labelled fake news sources is rigid. 
 
 # Dataset
 * "train.csv": A training dataset with the following attributes:
